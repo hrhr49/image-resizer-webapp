@@ -14,3 +14,7 @@ output following files from input image file(jpeg or png).
 * icon-384x384.png
 * icon-512x512.png
 
+## Page
+
+https://hrhr49.github.io/image-resizer-webapp/dist/index.html
+
