@@ -1,0 +1,14 @@
+.drag-area {
+  padding: 180px 0;
+  width: 100%;
+  background-color: skyblue;
+  text-align: center;
+  border: dotted 4px steelblue;
+}
+
+.drag-area.drag {
+  background-color: steelblue;
+}
+
+
+/*# sourceMappingURL=/script.221c08a2.css.map */

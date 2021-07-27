@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "watch": "npx parcel index.html --open"
+    "watch": "npx parcel index.html --open",
+    "build": "npx parcel build index.html"
   },
   "repository": "ssh://git@github.com/hrhr49/image-resizer-webapp.git",
   "author": "hrhr49 <hiro49410@gmail.com>",
