@@ -10,15 +10,15 @@
 
     <div style="width: 500px">
       <form name="file-form" enctype="multipart/form-data" method="post">
-        <input type="file" name="file-input" accept="image/*">
+        <div id="upload-area" class="drag-area">
+          <input type="file" name="file-input" accept="image/*">
+        </div>
       </form>
     </div>
 
-    <canvas id="canvas" width="0" height="0"></canvas>
+    <div id="image-area"></div>
 
-    <button class="btn btn-primary" id="upload">Generate</button>
-
-    <script type="text/javascript" src="./script.ts">
+    <script src="./script.ts">
     </script>
   </body>
 </html>
